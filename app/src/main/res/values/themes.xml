@@ -1,1 +1,4 @@
-
+<resources>
+    <style name="Theme.Reader" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>
